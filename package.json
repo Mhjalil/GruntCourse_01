@@ -1,7 +1,7 @@
 {
   "name": "grunt",
   "version": "1.0.0",
-  "description": "Project for Grunt Course",
+  "description": "Project for Grunt Learning Course",
   "author": "Marco Jalili",
   "license": "MIT",
   "devDependencies": {
